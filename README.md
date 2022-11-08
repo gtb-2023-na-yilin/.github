@@ -4,10 +4,10 @@
  ***  
  Look at picture !  
  
-![QAQ](http://www.netbian.com/desk/27931-phone.htm"look") 
+![QAQ]() 
 
 
 
 
-##### It isn't me , hhhh
+##### hhhh
 
