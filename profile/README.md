@@ -3,7 +3,7 @@
  ***  
  Look at picture !  
  
-[![qaq](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+![photo](http://baidu.com/hellotest.png)
 
 
 
