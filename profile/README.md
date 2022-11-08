@@ -3,7 +3,7 @@
  ***  
  Look at picture !  
  
-![photo](https://github.com/gtb-2022-wang-xiaofeng/.github/blob/main/assets/me-panda.jpg)
+![photo](https://github.com/gtb-2023-na-yilin/photo/blob/main/1667929147415.jpg)
 
 
 
